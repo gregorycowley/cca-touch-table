@@ -36,8 +36,13 @@ build/Release
 node_modules/
 jspm_packages/
 
+<<<<<<< HEAD
 # TypeScript v1 declaration files
 typings/
+=======
+# Snowpack dependency directory (https://snowpack.dev/)
+web_modules/
+>>>>>>> 57868bb995b3ccbc3b4b89e6f9766fd2eed606c4
 
 # TypeScript cache
 *.tsbuildinfo
